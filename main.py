@@ -1,7 +1,7 @@
 import time
 import json
 import pyttsx3
-import speech_recognition as sr
+import speech_recognition as sr # type: ignore
 import tkinter as tk
 from tkinter import messagebox
 
