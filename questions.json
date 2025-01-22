@@ -1,0 +1,90 @@
+{
+    "questions": [
+      {
+        "question": "Which team is the winner of T20 World Cup 2024?",
+        "options": ["India", "England", "South Africa", "Afghanistan"],
+        "answer": "a"
+      },
+      {
+        "question": "Which team is the winner of T20 World Cup 2022?",
+        "options": ["India", "Pakistan", "South Africa", "England"],
+        "answer": "d"
+      },
+      {
+        "question": "Which player won Player of the Tournament Award in T20 World Cup 2024?",
+        "options": ["Kohli", "Bumrah", "Rohit", "Rabada"],
+        "answer": "b"
+      },
+      {
+        "question": "Which team is the winner of World Cup 2023?",
+        "options": ["India", "England", "Australia", "Afghanistan"],
+        "answer": "c"
+      },
+      {
+        "question": "Which two teams played in the final match of T20 World Cup 2024?",
+        "options": ["India & South Africa", "England & India", "India & Pakistan", "Australia & India"],
+        "answer": "a"
+      },
+      {
+        "question": "Which two teams played in the final match of World Cup 2023?",
+        "options": ["India & South Africa", "England & India", "India & Pakistan", "Australia & India"],
+        "answer": "d"
+      },
+      {
+        "question": "Which team is the winner of World Cup 2011?",
+        "options": ["Pakistan", "England", "India", "Sri Lanka"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": "a"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Shanu"],
+        "answer": "a"
+      },
+      {
+        "question": "What does the acronym 'HTML' stand for in web development?",
+        "options": ["HighText Markup Language", "HyperText Machine Language", "HyperText Markup Language", "HighText Machine Language"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the solution to the equation 2x + 3 = 11?",
+        "options": ["x=2", "x=4", "x=5", "x=8"],
+        "answer": "b"
+      },
+      {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": ["90 degrees", "270 degrees", "180 degrees", "360 degrees"],
+        "answer": "c"
+      },
+      {
+        "question": "In which continent is the Sahara Desert located?",
+        "options": ["Asia", "Africa", "South America", "Australia"],
+        "answer": "b"
+      },
+      {
+        "question": "What does GDP stand for in economics?",
+        "options": ["Gross Domestic Product", "Gross Development Product", "Gross Domestic Profit", "Gross Domestic Price"],
+        "answer": "a"
+      },
+      {
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "options": ["Atom", "Molecule", "Cell", "Organ"],
+        "answer": "c"
+      },
+      {
+        "question": "What is the smallest unit of life that can replicate independently?",
+        "options": ["Virus", "Bacterium", "Cell", "Organism"],
+        "answer": "b"
+      }
+    ]
+  }
+  
